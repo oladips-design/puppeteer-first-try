@@ -1,6 +1,6 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
-const { log } = require("console");
+const cheerio = require("cheerio");
 
 const url = "https://books.toscrape.com";
 
