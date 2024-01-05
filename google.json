@@ -1,0 +1,402 @@
+[
+  {
+    "placeId": "ChIJW9xFDAj1OxARsT3i5bE5aXo",
+    "address": "156 Awolowo Rd",
+    "category": "Pizza Delivery",
+    "googleUrl": "https://www.google.com/maps/place/Pizza+Hut+Ikoyi/data=!4m7!3m6!1s0x103bf5080c45dc5b:0x7a6939b1e5e23db1!8m2!3d6.4425093!4d3.4211776!16s%2Fg%2F11fhrh_2cw!19sChIJW9xFDAj1OxARsT3i5bE5aXo?authuser=0&hl=en&rclk=1",
+    "storeName": "Pizza Hut Ikoyi",
+    "ratingText": "4.2 stars 766 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": 766
+  },
+  {
+    "placeId": "ChIJAzHFAs6TOxARESP_S9b26Fc",
+    "address": "2 CELESTIAL AVE IKD Lagos Mainland",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Shonibare+Pizza+Hut/data=!4m7!3m6!1s0x103b93ce02c53103:0x57e8f6d64bff2311!8m2!3d6.6175732!4d3.3933345!16s%2Fg%2F11r5v3_w1v!19sChIJAzHFAs6TOxARESP_S9b26Fc?authuser=0&hl=en&rclk=1",
+    "storeName": "Shonibare Pizza Hut",
+    "ratingText": "4.7 stars 3 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 3
+  },
+  {
+    "placeId": "ChIJq3P8H3STOxAR-U0eMkdjZFA",
+    "address": "3 Oremeji Ln",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Fortune+Pizza+%26+Cream/data=!4m7!3m6!1s0x103b93741ffc73ab:0x50646347321e4df9!8m2!3d6.6362769!4d3.3830121!16s%2Fg%2F11hzy7yv5b!19sChIJq3P8H3STOxAR-U0eMkdjZFA?authuser=0&hl=en&rclk=1",
+    "storeName": "Fortune Pizza & Cream",
+    "ratingText": "5.0 stars 1 Reviews",
+    "stars": 5,
+    "numberOfReviews": 1
+  },
+  {
+    "placeId": "ChIJQy3Wh-ONOxARh7xA07f2ng0",
+    "address": "28 Adeniran Ogunsanya St",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Romeo%27s+Pizza+Surulere/data=!4m7!3m6!1s0x103b8de387d62d43:0xd9ef6b7d340bc87!8m2!3d6.4969079!4d3.3576738!16s%2Fg%2F11sfx18cvk!19sChIJQy3Wh-ONOxARh7xA07f2ng0?authuser=0&hl=en&rclk=1",
+    "storeName": "Romeo's Pizza Surulere",
+    "ratingText": "4.3 stars 72 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": 72
+  },
+  {
+    "placeId": "ChIJecYhFN31OxARjoB0RFQJRmw",
+    "address": "CFP2+7MJ",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Debonair%E2%80%99s+Pizza/data=!4m7!3m6!1s0x103bf5dd1421c679:0x6c4609544474808e!8m2!3d6.4357223!4d3.4516275!16s%2Fg%2F11gntvkmz0!19sChIJecYhFN31OxARjoB0RFQJRmw?authuser=0&hl=en&rclk=1",
+    "storeName": "Debonair’s Pizza",
+    "ratingText": "5.0 stars 2 Reviews",
+    "stars": 5,
+    "numberOfReviews": 2
+  },
+  {
+    "placeId": "ChIJL9kjoNOKOxAR03C-yaK1fPM",
+    "address": "13 Musa Yar' Adua St",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Pizze-Riah+restaurant/data=!4m7!3m6!1s0x103b8ad3a023d92f:0xf37cb5a2c9be70d3!8m2!3d6.4324493!4d3.4169908!16s%2Fg%2F11b7lp1f07!19sChIJL9kjoNOKOxAR03C-yaK1fPM?authuser=0&hl=en&rclk=1",
+    "storeName": "Pizze-Riah restaurant",
+    "ratingText": "4.3 stars 1,411 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJV-eX2_GTOxARH7_N6_AGLoU",
+    "address": "Ikeja City Mall Obafemi Awolowo Way Ikeja",
+    "category": "Pizza Delivery",
+    "googleUrl": "https://www.google.com/maps/place/Pizza+Hut+Ikeja+City+Mall/data=!4m7!3m6!1s0x103b93f1db97e757:0x852e06f0ebcdbf1f!8m2!3d6.6143776!4d3.3579681!16s%2Fg%2F11fhrh_yvg!19sChIJV-eX2_GTOxARH7_N6_AGLoU?authuser=0&hl=en&rclk=1",
+    "storeName": "Pizza Hut Ikeja City Mall",
+    "ratingText": "3.4 stars 50 Reviews",
+    "stars": 3.4,
+    "numberOfReviews": 50
+  },
+  {
+    "placeId": "ChIJ6zHlLyz1OxARBFeid_gx_g8",
+    "address": "36 Adeola Odeku St",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Debonairs+Pizza+Victoria+Island+Lagos/data=!4m7!3m6!1s0x103bf52c2fe531eb:0xffe31f877a25704!8m2!3d6.4294852!4d3.4198672!16s%2Fg%2F119vv2bj_!19sChIJ6zHlLyz1OxARBFeid_gx_g8?authuser=0&hl=en&rclk=1",
+    "storeName": "Debonairs Pizza Victoria Island Lagos",
+    "ratingText": "4.2 stars 1,027 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJT25tbYqOOxARneV5OV9QZ6g",
+    "address": "4 Okeho St",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/Pizza+Lounge/data=!4m7!3m6!1s0x103b8e8a6d6d6e4f:0xa867505f3979e59d!8m2!3d6.5239332!4d3.3229352!16s%2Fg%2F1q67kb8ng!19sChIJT25tbYqOOxARneV5OV9QZ6g?authuser=0&hl=en&rclk=1",
+    "storeName": "Pizza Lounge",
+    "ratingText": "3.9 stars 16 Reviews",
+    "stars": 3.9,
+    "numberOfReviews": 16
+  },
+  {
+    "placeId": "ChIJN2itXBWNOxARcbQAdjaBLkE",
+    "address": "67 Coker Rd",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Pizza+King+Nigeria/data=!4m7!3m6!1s0x103b8d155cad6837:0x412e81367600b471!8m2!3d6.555501!4d3.3623157!16s%2Fg%2F11h07ncsm9!19sChIJN2itXBWNOxARcbQAdjaBLkE?authuser=0&hl=en&rclk=1",
+    "storeName": "Pizza King Nigeria",
+    "ratingText": "4.3 stars 90 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": 90
+  },
+  {
+    "placeId": "ChIJqah6aUqJOxARqst58sNQVAQ",
+    "address": "1st Avenue by 11 Road Junction",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Romeo%27s+Pizza+Festac/data=!4m7!3m6!1s0x103b894a697aa8a9:0x45450c3f279cbaa!8m2!3d6.4688409!4d3.2966525!16s%2Fg%2F11rjnd4st_!19sChIJqah6aUqJOxARqst58sNQVAQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Romeo's Pizza Festac",
+    "ratingText": "4.1 stars 137 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": 137
+  },
+  {
+    "placeId": "ChIJHQHDywmNOxAR5uxY74KfVTw",
+    "address": "97, Leisure Mall, 99 Adeniran Ogunsanya St",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Pizza+Den/data=!4m7!3m6!1s0x103b8d09cbc3011d:0x3c559f82ef58ece6!8m2!3d6.49008!4d3.357341!16s%2Fg%2F11frfwpz2h!19sChIJHQHDywmNOxAR5uxY74KfVTw?authuser=0&hl=en&rclk=1",
+    "storeName": "Pizza Den",
+    "ratingText": "3.3 stars 9 Reviews",
+    "stars": 3.3,
+    "numberOfReviews": 9
+  },
+  {
+    "placeId": "ChIJlV2zqSKTOxARyEu7hZfAIsQ",
+    "address": "Way, Obafemi Awolowo Way",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Dodo+Pizza,+Ikeja+City+Mall/data=!4m7!3m6!1s0x103b9322a9b35d95:0xc422c09785bb4bc8!8m2!3d6.6147605!4d3.3583376!16s%2Fg%2F11hf2c35ny!19sChIJlV2zqSKTOxARyEu7hZfAIsQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Dodo Pizza, Ikeja City Mall",
+    "ratingText": "4.2 stars 84 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": 84
+  },
+  {
+    "placeId": "ChIJQ8M3kzL1OxAR5BLqripFvRU",
+    "address": "4 Saka Tinubu St",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Domino%27s+Pizza+Nigeria/data=!4m7!3m6!1s0x103bf5329337c343:0x15bd452aaeea12e4!8m2!3d6.4267687!4d3.4169328!16s%2Fg%2F11rwky5fl!19sChIJQ8M3kzL1OxAR5BLqripFvRU?authuser=0&hl=en&rclk=1",
+    "storeName": "Domino's Pizza Nigeria",
+    "ratingText": "4.2 stars 1,258 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJq6qqqi_1OxARuTsQh-s6_qU",
+    "address": "13 Taslim Elias Cl",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/Manuela+Pizza/data=!4m7!3m6!1s0x103bf52faaaaaaab:0xa5fe3aeb87103bb9!8m2!3d6.4267584!4d3.4106058!16s%2Fg%2F11g8p1485b!19sChIJq6qqqi_1OxARuTsQh-s6_qU?authuser=0&hl=en&rclk=1",
+    "storeName": "Manuela Pizza",
+    "ratingText": "3.7 stars 3 Reviews",
+    "stars": 3.7,
+    "numberOfReviews": 3
+  },
+  {
+    "placeId": "ChIJn85SOyuLOxAREG-lZbcYEX8",
+    "address": "93 Awolowo Rd",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Debonairs+Pizza/data=!4m7!3m6!1s0x103b8b2b3b52ce9f:0x7f1118b765a56f10!8m2!3d6.4426895!4d3.4206753!16s%2Fg%2F1s049_0l1!19sChIJn85SOyuLOxAREG-lZbcYEX8?authuser=0&hl=en&rclk=1",
+    "storeName": "Debonairs Pizza",
+    "ratingText": "4.2 stars 416 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": 416
+  },
+  {
+    "placeId": "ChIJIzxFhuiOOxAR1Zl5S5FDrXI",
+    "address": "92/94 Ago Palace Way",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Domino%27s+Pizza+Okota/data=!4m7!3m6!1s0x103b8ee886453c23:0x72ad43914b7999d5!8m2!3d6.5066876!4d3.3092538!16s%2Fg%2F11dd_vk8rj!19sChIJIzxFhuiOOxAR1Zl5S5FDrXI?authuser=0&hl=en&rclk=1",
+    "storeName": "Domino's Pizza Okota",
+    "ratingText": "4.1 stars 1,985 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJ0WVbdvX1OxARmMuV8nvvGsE",
+    "address": "12E Admiralty Wy",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Romeo%27s+Pizza+Lekki/data=!4m7!3m6!1s0x103bf5f5765b65d1:0xc11aef7bf295cb98!8m2!3d6.4471083!4d3.4629083!16s%2Fg%2F11sg9ln4t8!19sChIJ0WVbdvX1OxARmMuV8nvvGsE?authuser=0&hl=en&rclk=1",
+    "storeName": "Romeo's Pizza Lekki",
+    "ratingText": "3.9 stars 17 Reviews",
+    "stars": 3.9,
+    "numberOfReviews": 17
+  },
+  {
+    "placeId": "ChIJwfOXKDj1OxAR0MgwrTCBU8Y",
+    "address": "Centro Mall, Admiralty Wy",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Dodo+Pizza,+Admiralty+Way,+Lekki/data=!4m7!3m6!1s0x103bf5382897f3c1:0xc6538130ad30c8d0!8m2!3d6.4475283!4d3.4765437!16s%2Fg%2F11pgcdrqc3!19sChIJwfOXKDj1OxAR0MgwrTCBU8Y?authuser=0&hl=en&rclk=1",
+    "storeName": "Dodo Pizza, Admiralty Way, Lekki",
+    "ratingText": "4.4 stars 207 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 207
+  },
+  {
+    "placeId": "ChIJf-ugWbGLOxAR_eGOnoNL7uM",
+    "address": "14 Bristol Road",
+    "category": "Pizza Delivery",
+    "googleUrl": "https://www.google.com/maps/place/Mario%27s+Pizza+Lagos/data=!4m7!3m6!1s0x103b8bb159a0eb7f:0xe3ee4b839e8ee1fd!8m2!3d6.4448721!4d3.3656431!16s%2Fg%2F1wfz1302!19sChIJf-ugWbGLOxAR_eGOnoNL7uM?authuser=0&hl=en&rclk=1",
+    "storeName": "Mario's Pizza Lagos",
+    "ratingText": "3.9 stars 123 Reviews",
+    "stars": 3.9,
+    "numberOfReviews": 123
+  },
+  {
+    "placeId": "ChIJqZGI4zGNOxARI9j8NY-rDAs",
+    "address": "113 Ogunlana Dr",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/Red+peppe+Pizza+N+Grill/data=!4m7!3m6!1s0x103b8d31e38891a9:0xb0cab8f35fcd823!8m2!3d6.5046496!4d3.3519835!16s%2Fg%2F11h4x8_ftf!19sChIJqZGI4zGNOxARI9j8NY-rDAs?authuser=0&hl=en&rclk=1",
+    "storeName": "Red peppe Pizza N Grill",
+    "ratingText": "4.2 stars 279 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": 279
+  },
+  {
+    "placeId": "ChIJXzKMrH-POxARTuwmeOSzPtU",
+    "address": "36 Airport Rd",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Romeo%27s+Pizza+NG/data=!4m7!3m6!1s0x103b8f7fac8c325f:0xd53eb3e47826ec4e!8m2!3d6.5521368!4d3.3302419!16s%2Fg%2F11mvfys6bm!19sChIJXzKMrH-POxARTuwmeOSzPtU?authuser=0&hl=en&rclk=1",
+    "storeName": "Romeo's Pizza NG",
+    "ratingText": "4.0 stars 1 Reviews",
+    "stars": 4,
+    "numberOfReviews": 1
+  },
+  {
+    "placeId": "ChIJVVVVFe6POxARyDQqAGCPb1A",
+    "address": "75 Ikotun - Idimu Rd",
+    "category": "Fast Food",
+    "googleUrl": "https://www.google.com/maps/place/Domino%27s+Pizza+Ikotun/data=!4m7!3m6!1s0x103b8fee15555555:0x506f8f60002a34c8!8m2!3d6.5547739!4d3.269517!16s%2Fg%2F11c2l102s7!19sChIJVVVVFe6POxARyDQqAGCPb1A?authuser=0&hl=en&rclk=1",
+    "storeName": "Domino's Pizza Ikotun",
+    "ratingText": "4.1 stars 2,552 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJ108qOsqTOxARa8XkIcx_XLo",
+    "address": "Ikeja City Mall, Obafemi Awolowo Way, Alausa, Ikeja, Lagos, Lagos",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/The+Pizza+Company+Ikeja/data=!4m7!3m6!1s0x103b93ca3a2a4fd7:0xba5c7fcc21e4c56b!8m2!3d6.6140455!4d3.3572942!16s%2Fg%2F1q5bkj69h!19sChIJ108qOsqTOxARa8XkIcx_XLo?authuser=0&hl=en&rclk=1",
+    "storeName": "The Pizza Company Ikeja",
+    "ratingText": "3.8 stars 124 Reviews",
+    "stars": 3.8,
+    "numberOfReviews": 124
+  },
+  {
+    "placeId": "ChIJrarOqZWNOxARm9fsaFEYtnQ",
+    "address": "21 Coker Rd",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/Domino%27s+Pizza,+Ilupeju/data=!4m7!3m6!1s0x103b8d95a9ceaaad:0x74b6185168ecd79b!8m2!3d6.5479956!4d3.3616517!16s%2Fg%2F11f32fpx35!19sChIJrarOqZWNOxARm9fsaFEYtnQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Domino's Pizza, Ilupeju",
+    "ratingText": "4.2 stars 1,357 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJWaVPS_aPOxAR_4VgZC4cFXM",
+    "address": "127 Isolo Rd",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Romeo+and+Juliet/data=!4m7!3m6!1s0x103b8ff64b4fa559:0x73151c2e646085ff!8m2!3d6.542534!4d3.2811924!16s%2Fg%2F11ll7n9fh4!19sChIJWaVPS_aPOxAR_4VgZC4cFXM?authuser=0&hl=en&rclk=1",
+    "storeName": "Romeo and Juliet",
+    "ratingText": "4.0 stars 7 Reviews",
+    "stars": 4,
+    "numberOfReviews": 7
+  },
+  {
+    "placeId": "ChIJh4El9qmTOxAR5umYtK0qcn8",
+    "address": "J9F7+7Q6",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Debonairs+Pizza/data=!4m7!3m6!1s0x103b93a9f6258187:0x7f722aadb498e9e6!8m2!3d6.6231625!4d3.3643906!16s%2Fg%2F11jt6b20jq!19sChIJh4El9qmTOxAR5umYtK0qcn8?authuser=0&hl=en&rclk=1",
+    "storeName": "Debonairs Pizza",
+    "ratingText": "3.7 stars 31 Reviews",
+    "stars": 3.7,
+    "numberOfReviews": 31
+  },
+  {
+    "placeId": "ChIJzYjpPSGNOxAResOsMEBv3dY",
+    "address": "Jaja Complex",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/AY+Pizza/data=!4m7!3m6!1s0x103b8d213de988cd:0xd6dd6f4030acc37a!8m2!3d6.5161444!4d3.3971889!16s%2Fg%2F11kpzrd5zz!19sChIJzYjpPSGNOxAResOsMEBv3dY?authuser=0&hl=en&rclk=1",
+    "storeName": "AY Pizza",
+    "ratingText": "3.3 stars 7 Reviews",
+    "stars": 3.3,
+    "numberOfReviews": 7
+  },
+  {
+    "placeId": "ChIJz6q4ktiIOxAR7uvk9nke02g",
+    "address": "Plot R, 1st Ave",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Domino%27s+Pizza/data=!4m7!3m6!1s0x103b88d892b8aacf:0x68d31e79f6e4ebee!8m2!3d6.4684188!4d3.2975827!16s%2Fg%2F11b6btv1cl!19sChIJz6q4ktiIOxAR7uvk9nke02g?authuser=0&hl=en&rclk=1",
+    "storeName": "Domino's Pizza",
+    "ratingText": "4.1 stars 1,448 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJV-o3Tc31OxARnKx5VURcGww",
+    "address": "33 Bishop Aboyade Cole St",
+    "category": "Pizza Delivery",
+    "googleUrl": "https://www.google.com/maps/place/Dodo+Pizza,+Victoria+Island/data=!4m7!3m6!1s0x103bf5cd4d37ea57:0xc1b5c445579ac9c!8m2!3d6.4340828!4d3.4368009!16s%2Fg%2F11kw3hnx4x!19sChIJV-o3Tc31OxARnKx5VURcGww?authuser=0&hl=en&rclk=1",
+    "storeName": "Dodo Pizza, Victoria Island",
+    "ratingText": "4.1 stars 56 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": 56
+  },
+  {
+    "placeId": "ChIJ-5QL0yOLOxAR6xlKQ72uGhs",
+    "address": "CCV2+RRR, Tafawa Balewa Rd",
+    "category": "Fast Food",
+    "googleUrl": "https://www.google.com/maps/place/La+Pizza+And+Shawarma+%28+City+Mall+%29/data=!4m7!3m6!1s0x103b8b23d30b94fb:0x1b1aaebd434a19eb!8m2!3d6.4446041!4d3.402028!16s%2Fg%2F1pt_bhvly!19sChIJ-5QL0yOLOxAR6xlKQ72uGhs?authuser=0&hl=en&rclk=1",
+    "storeName": "La Pizza And Shawarma ( City Mall )",
+    "ratingText": "3.7 stars 46 Reviews",
+    "stars": 3.7,
+    "numberOfReviews": 46
+  },
+  {
+    "placeId": "ChIJ5y5bea-ROxARUPGp2Uoq1Sw",
+    "address": "179 Akowonjo Rd",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Domino%27s+Pizza+Egbeda/data=!4m7!3m6!1s0x103b91af795b2ee7:0x2cd52a4ad9a9f150!8m2!3d6.6021427!4d3.3074037!16s%2Fg%2F11g896_xwm!19sChIJ5y5bea-ROxARUPGp2Uoq1Sw?authuser=0&hl=en&rclk=1",
+    "storeName": "Domino's Pizza Egbeda",
+    "ratingText": "4.1 stars 2,188 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJGR23d6aROxARM0xLNa74d4g",
+    "address": "MMA2 Airport Rd",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Dodo+Pizza,+Muritala+Muhammed+Airport+2/data=!4m7!3m6!1s0x103b91a677b71d19:0x8877f8ae354b4c33!8m2!3d6.5849361!4d3.3334726!16s%2Fg%2F11shx5wjp8!19sChIJGR23d6aROxARM0xLNa74d4g?authuser=0&hl=en&rclk=1",
+    "storeName": "Dodo Pizza, Muritala Muhammed Airport 2",
+    "ratingText": "4.4 stars 5 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 5
+  },
+  {
+    "placeId": "ChIJz8EYx9X1OxARj32N61r7PPk",
+    "address": "Delakes Mall, Admiralty Wy",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Panarottis+Admirality+Lagos/data=!4m7!3m6!1s0x103bf5d5c718c1cf:0xf93cfb5aeb8d7d8f!8m2!3d6.4481426!4d3.4791023!16s%2Fg%2F11j2njpj0b!19sChIJz8EYx9X1OxARj32N61r7PPk?authuser=0&hl=en&rclk=1",
+    "storeName": "Panarottis Admirality Lagos",
+    "ratingText": "4.4 stars 641 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 641
+  },
+  {
+    "placeId": "ChIJ8wOdPJ-LOxARo1rMBw02g38",
+    "address": "No 65 Okesuna Street, Lafiaji Way",
+    "category": "Restaurant",
+    "phone": "No 65 Okesuna Street, Lafiaji Way",
+    "googleUrl": "https://www.google.com/maps/place/Del+Pizza+Restaurant+and+Take+Away/data=!4m7!3m6!1s0x103b8b9f3c9d03f3:0x7f83360d07cc5aa3!8m2!3d6.4526426!4d3.4056545!16s%2Fg%2F11q1pdvs32!19sChIJ8wOdPJ-LOxARo1rMBw02g38?authuser=0&hl=en&rclk=1",
+    "storeName": "Del Pizza Restaurant and Take Away",
+    "stars": null,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJeaiZt9r0OxAR9ls5OL3oWpg",
+    "address": "2 Olawale Daodu Rd",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/The+Village+Grille/data=!4m7!3m6!1s0x103bf4dab799a879:0x985ae8bd38395bf6!8m2!3d6.4489234!4d3.4307786!16s%2Fg%2F11dz_ykwyx!19sChIJeaiZt9r0OxAR9ls5OL3oWpg?authuser=0&hl=en&rclk=1",
+    "storeName": "The Village Grille",
+    "ratingText": "4.4 stars 8 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 8
+  },
+  {
+    "placeId": "ChIJoWlctzuSOxARWddzvbjyExs",
+    "address": "31/37 Toyin St",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Domino%27s+Pizza+Toyin/data=!4m7!3m6!1s0x103b923bb75c69a1:0x1b13f2b8bd73d759!8m2!3d6.595905!4d3.3525643!16s%2Fg%2F11b5phxtjp!19sChIJoWlctzuSOxARWddzvbjyExs?authuser=0&hl=en&rclk=1",
+    "storeName": "Domino's Pizza Toyin",
+    "ratingText": "4.2 stars 2,678 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJ13Rk8HOOOxARaLGZZoNNAPA",
+    "address": "9A Osolo Wy",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Domino%27s+Pizza+Ajao/data=!4m7!3m6!1s0x103b8e73f06474d7:0xf0004d836699b168!8m2!3d6.5415914!4d3.3336987!16s%2Fg%2F11b6n_y_r6!19sChIJ13Rk8HOOOxARaLGZZoNNAPA?authuser=0&hl=en&rclk=1",
+    "storeName": "Domino's Pizza Ajao",
+    "ratingText": "4.1 stars 1,867 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJ03lsPrOLOxAR9tM9GJC3yUk",
+    "address": "68 Calcutta Cres",
+    "category": "Pizza",
+    "googleUrl": "https://www.google.com/maps/place/Domino%27s+Pizza/data=!4m7!3m6!1s0x103b8bb33e6c79d3:0x49c9b790183dd3f6!8m2!3d6.4385286!4d3.3642731!16s%2Fg%2F11b6cq3f0x!19sChIJ03lsPrOLOxAR9tM9GJC3yUk?authuser=0&hl=en&rclk=1",
+    "storeName": "Domino's Pizza",
+    "ratingText": "4.1 stars 876 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": 876
+  },
+  {
+    "placeId": "ChIJBfCtC2GROxAR8aqdGgv_9F8",
+    "address": "Shop 77, LSDPC Medium Estate Phase 4, Ogba",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/Pizza+Splash,+Ogba/data=!4m7!3m6!1s0x103b91610badf005:0x5ff4ff0b1a9daaf1!8m2!3d6.6274808!4d3.3361986!16s%2Fg%2F11b6f0t79w!19sChIJBfCtC2GROxAR8aqdGgv_9F8?authuser=0&hl=en&rclk=1",
+    "storeName": "Pizza Splash, Ogba",
+    "ratingText": "4.1 stars 28 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": 28
+  }
+]
